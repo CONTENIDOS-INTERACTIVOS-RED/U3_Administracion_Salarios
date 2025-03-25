@@ -88,7 +88,7 @@
                 img(src="@/assets/curso/tema1/9.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Activos
-              p LCuentas que representan los bienes y derechos de la empresa, como caja, bancos, cuentas por cobrar, inventarios, etc. Las cuentas de activos normalmente tienen saldos de débito.
+              p Cuentas que representan los bienes y derechos de la empresa, como caja, bancos, cuentas por cobrar, inventarios, etc. Las cuentas de activos normalmente tienen saldos de débito.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -103,7 +103,7 @@
                 img(src="@/assets/curso/tema1/11.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Patrimonio o Capital
-              p ERepresenta el valor residual de los activos después de deducir los pasivos. Incluye capital social, utilidades retenidas, etc. Estas cuentas suelen tener saldos de crédito.
+              p Representa el valor residual de los activos después de deducir los pasivos. Incluye capital social, utilidades retenidas, etc. Estas cuentas suelen tener saldos de crédito.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
