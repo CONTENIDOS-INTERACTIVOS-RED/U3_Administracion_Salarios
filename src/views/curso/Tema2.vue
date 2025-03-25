@@ -22,15 +22,15 @@
       h2 #[span 2.1] Historia y evolución de la administración de salarios
     
     .row.mb-5
-      .col-lg-5
+      .col-lg-5.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
-      .col-lg-7.mb-3.mb-lg-0
+      .col-lg-7
         p(data-aos="fade-left") La historia de la administración de salarios está marcada por el constante cambio de las necesidades y estructuras de las organizaciones. En sus inicios, los sistemas salariales eran rudimentarios, basados únicamente en la negociación individual entre empleador y empleado. 
         p.mb-5(data-aos="fade-left") A medida que las empresas crecían y se diversificaban, se hizo necesario establecer criterios objetivos para la remuneración, impulsando la creación de políticas salariales estructuradas.
     
     .bg-full-width-2.bg-color-1
-      .px-md-5.pb-md-3
+      .p-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
             .row.justify-content-center.align-items-center
@@ -96,7 +96,7 @@
     p.mb-4 Los objetivos de la administración de salarios, incluyen:
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-6
+      .col-lg-6.mb-3.mb-l-g0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -105,7 +105,7 @@
               h5.mb-2 Garantizar la competitividad salarial
               p.mb-0 Asegurar que los salarios de la empresa estén alineados con el mercado para atraer y retener talento.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-l-g0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -114,8 +114,8 @@
               h5.mb-2 Mantener la equidad interna
               p.mb-0 Evitar disparidades salariales injustificadas entre empleados con roles similares.
 
-    .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-6
+    .row.justify-content-center.align-items-stretch.mb-3
+      .col-lg-6.mb-3.mb-l-g0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -123,7 +123,7 @@
             .col-lg
               h5.mb-2 Fomentar el desempeño
               p.mb-0 A través de incrementos salariales y bonificaciones por logros específicos.
-      .col-lg-6
+      .col-lg-6.mb-3.mb-l-g0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto

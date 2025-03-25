@@ -6,10 +6,10 @@
     p.mb-4 El ciclo contable es un proceso sistemático que abarca una serie de etapas diseñadas para registrar, clasificar, y preparar la información financiera de una empresa. 
 
     .row.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
-      .col-lg-8.mb-3.mb-lg-0
+      .col-lg-8
         .bg-color-4.p-4.mb-3(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto
@@ -71,10 +71,10 @@
       h2 #[span 1.2] Estructura y proceso de elaboración
 
     .row.mb-5
-      .col-lg-5
+      .col-lg-5.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/8.png", data-aos="zoom-in")
-      .col-lg-7.mb-3.mb-lg-0
+      .col-lg-7
         .bg-color-1.p-4.mb-3(data-aos="fade-left")
           p.mb-0 La estructura del balance de prueba debe ser clara y organizada, de modo que permita a los contadores y auditores verificar fácilmente si los registros contables están equilibrados. Como se mencionó anteriormente, el balance de prueba tiene dos columnas principales: Débitos y Créditos.
         p(data-aos="fade-left") Dentro de estas columnas, es fundamental que las cuentas estén ordenadas, según su naturaleza y clasificación contable. La organización correcta de las cuentas sigue el mismo orden que el libro mayor, y comúnmente se agrupan en categorías como:
@@ -226,10 +226,10 @@
     p.mb-4 El ciclo contable, al ser un proceso secuencial, depende de la precisión de cada uno de sus pasos, y el balance de prueba juega un papel crucial al garantizar la calidad y la integridad de la información contable, útil para la toma de decisiones empresariales y la presentación ante las autoridades fiscales.
 
     .row.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/17.png", data-aos="zoom-in")
-      .col-lg-8.mb-3.mb-lg-0
+      .col-lg-8
         .bg-color-5.p-4.mb-3(data-aos="fade-left")
           p.mb-0 El ciclo contable se define como el proceso secuencial que sigue una empresa para registrar todas las transacciones financieras realizadas durante un período, y con ello, elaborar los estados financieros finales que reflejan la salud financiera de la entidad.
         p(data-aos="fade-left") Cada etapa debe ser precisa y es necesaria para garantizar que la información registrada sea confiable, y que los resultados obtenidos sean fieles a la realidad económica de la empresa.
@@ -272,10 +272,10 @@
     p.mb-4 Y continuemos con las etapas del ciclo contable:
 
     .row.align-items-start.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/19.png", alt="").mb-4.mb-lg-0
-      .col-lg-8.mb-3.mb-lg-0.order-1
+      .col-lg-8.order-lg-1
     
         AcordionA(tipo="b")
           .div(titulo="Identificación y análisis de las transacciones")

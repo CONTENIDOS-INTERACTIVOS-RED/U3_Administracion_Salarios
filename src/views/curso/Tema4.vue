@@ -22,7 +22,7 @@
       div.p-4(data-aos="fade-left")
         p.mb-0 A lo largo de este tema, se explicarán algunas de las principales novedades que pueden ocurrir dentro de la nómina <b>algunas ya fueron explicadas en la Unidad 1</b>, tales como vacaciones y cesantías, para revisar dar completitud es necesario que revise de nuevo esta primera unidad. 
     
-    .bg-full-width.bg-color-2.mb-lg-5
+    .bg-full-width.bg-color-2.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0

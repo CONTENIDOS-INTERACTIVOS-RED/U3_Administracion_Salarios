@@ -30,6 +30,10 @@
     background-color: #E2DACC !important
   &-7
     background-color: #FFF4E6
+  &-8
+    color: #496406 !important
+  &-9
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(214,245,251,1) 100%)
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -71,6 +75,7 @@
   @media screen and (max-width: $bp-max-md)
     padding: 1rem
     &::after
+      bottom: 0
       height: 100%
 .bg-h85-3
   position: relative
@@ -89,7 +94,8 @@
   @media screen and (max-width: $bp-max-md)
     padding: 1rem
     &::after
-      height: 100%
+      bottom: 0
+      height: 30%
 .border-top
   &.color-primario
     border-top: 5px solid $color-primario !important
@@ -121,7 +127,7 @@
     background-image: url("../assets/bg/bg1.svg") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.svg") !important
     background-position: bottom
   &-slider
     background-image: url("../assets/bg/bg-slider.svg") !important
