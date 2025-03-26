@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'3. Título tema'")
+  BannerInterno(:subTitulo="'3. Reporte de nómina'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .row.mb-5
@@ -117,10 +117,10 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-1 Plantilla novedades
+                      h3.mb-1 Plantilla nomina
                       p Lo invitamos a revisar la plantilla en Excel, la cual puede ser empleada para los ejercicios prácticos.
                     .col-sm-auto
-                      a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Plantilla_nomina.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-arrow-right
 

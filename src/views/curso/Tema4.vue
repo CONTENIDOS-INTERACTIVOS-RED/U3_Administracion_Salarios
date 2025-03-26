@@ -49,7 +49,7 @@
               h3.mb-1 Plantilla novedades
               p Lo invitamos a revisar la plantilla en Excel, la cual puede ser empleada para los ejercicios prácticos.
             .col-sm-auto
-              a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Plantilla_novedades.xlsx')" target="_blank")
                 span Descargar
                 i.fas.fa-arrow-right
 
